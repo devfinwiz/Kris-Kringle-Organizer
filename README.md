@@ -1,6 +1,8 @@
+###SECRET SANTA / KRIS KINGLE
 This is a python script to organise Secret Santa event also called as Kris Kingle on the eve of Christmas. 
 
-Note: Before executing the script, make sure to turn on 'Less Secure App access' option from your gmail ID that will be used to send out the mails to all participants of the game. 
+##Note: 
+Before executing the script, make sure to turn on 'Less Secure App access' option from your gmail ID that will be used to send out the mails to all participants of the game. 
 To do so, get going with the following steps:
 
 1.Log into the Gmail account that will be used to send the emails.

@@ -19,5 +19,4 @@ Every participant receives the necessary details of the game on their respective
 
 A CSV file containing the dataframe is created to store the records.
 
-
-![SANTA IMAGE](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.freepik.com%2Ffree-vector%2Fwatercolor-secret-santa-illustration_23-2149148667.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-vector%2Fwatercolor-secret-santa-illustration_19850513.htm&tbnid=QZGT4JD6kP_TdM&vet=12ahUKEwj418yMo-j1AhVcUWwGHcmRCl8QMygDegUIARDYAQ..i&docid=EhbSrNQzKn8_9M&w=626&h=447&q=SECRET%20SANTA%20FREE%20IMAGE&client=firefox-b-d&ved=2ahUKEwj418yMo-j1AhVcUWwGHcmRCl8QMygDegUIARDYAQ)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)

@@ -4,10 +4,10 @@ import smtplib
 
 participants = {
 'Vikas'   : 'devjuneja43@gmai.com',  #Example: 'abc@gmail.com'
-'Dev'     : 'dev.juneja20@pccoepune.org',
-'Mahek'   : 'devfinwiz@gmail.com',
-'Akash'  : 'devjuneja@gmail.com',
-'Vishal'  : 'devjuneja@gmai.com'
+'Dev'     : 'dev.juneja20@pccoepune.org', #Example: 'bbc@gmail.com'
+'Mahek'   : 'devfinwiz@gmail.com', #Example: 'cbc@gmail.com'
+'Akash'  : 'devjuneja@gmail.com', #Example: 'dbc@gmail.com'
+'Vishal'  : 'devjuneja@gmai.com' #Example: 'lbc@gmail.com'
 }
 
 santa = list(np.random.choice(list(participants.keys()), len(list(participants.keys())), replace = False))

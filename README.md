@@ -3,9 +3,10 @@ This is a python script to organise Secret Santa event also called as Kris Kingl
 Note: Before executing the script, make sure to turn on 'Less Secure App access' option from your gmail ID that will be used to send out the mails to all participants of the game. 
 To do so, get going with the following steps:
 
-1. Login to your gmail account via Gmail App.
-2. Move to settings (Manage your Google Account).
-3. Under Security section, find 'Less secure app access' and turn it on.
+1.Log into the Gmail account that will be used to send the emails.
+2.Go to Gmail's Less Secure App Access
+3.Set the Allow less secure apps option to ON.
+
 
 Post execution of this script the following is performed automatically:
 

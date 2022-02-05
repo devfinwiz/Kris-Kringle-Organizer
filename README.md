@@ -1,4 +1,6 @@
 # SECRET SANTA / KRIS KINGLE
+![secret](https://user-images.githubusercontent.com/78873223/152636931-5d17014d-6390-4ab6-bbdc-73831ac73b59.jpg)
+
 
 ### Note: 
 Before executing the script, make sure to turn on 'Less Secure App access' option from your gmail ID that will be used to send out the mails to all participants of the game. 
@@ -19,4 +21,5 @@ Every participant receives the necessary details of the game on their respective
 
 A CSV file containing the dataframe is created to store the records.
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+

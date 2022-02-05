@@ -4,7 +4,9 @@ Note: Before executing the script, make sure to turn on 'Less Secure App access'
 To do so, get going with the following steps:
 
 1.Log into the Gmail account that will be used to send the emails.
+
 2.Go to Gmail's [Less Secure App Access](https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4NELkm6zvkeSQxzOL8a2UdhbIUASi6uvDQY573YvLX9rO1G5GHA4Um6YgEmGmZD6_Jc2tsqRDXuMf99mMud0Pslsov5MA)
+
 3.Set the Allow less secure apps option to ON.
 
 

@@ -3,11 +3,11 @@ import pandas as pd
 import smtplib
 
 participants = {
-'Vikas'   : 'devjuneja43@gmai.com',  #Example: 'abc@gmail.com'
-'Dev'     : 'dev.juneja20@pccoepune.org', #Example: 'bbc@gmail.com'
-'Mahek'   : 'devfinwiz@gmail.com', #Example: 'cbc@gmail.com'
-'Akash'  : 'devjuneja@gmail.com', #Example: 'dbc@gmail.com'
-'Vishal'  : 'devjuneja@gmai.com' #Example: 'lbc@gmail.com'
+'Vikas'   : 'Email ID of Vikas',  #Example: 'abc@gmail.com'
+'Dev'     : 'Email ID of Dev', #Example: 'bbc@gmail.com'
+'Mahek'   : 'Emai ID of Mahek', #Example: 'cbc@gmail.com'
+'Akash'  : 'Email ID of Akash', #Example: 'dbc@gmail.com'
+'Vishal'  : 'Email ID of Vishal' #Example: 'lbc@gmail.com'
 }
 
 santa = list(np.random.choice(list(participants.keys()), len(list(participants.keys())), replace = False))

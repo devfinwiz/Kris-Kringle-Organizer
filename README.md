@@ -1,4 +1,4 @@
-###SECRET SANTA / KRIS KINGLE
+### SECRET SANTA / KRIS KINGLE
 This is a python script to organise Secret Santa event also called as Kris Kingle on the eve of Christmas. 
 
 ##Note: 

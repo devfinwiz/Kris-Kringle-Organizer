@@ -1,3 +1,5 @@
+#Random allotment and secretly mailing the allotment details to each participant.
+
 import numpy as np
 import pandas as pd
 import smtplib

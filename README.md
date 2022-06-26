@@ -1,6 +1,5 @@
-# SECRET SANTA / KRIS KINGLE
+# SECRET SANTA / KRIS KINGLE [![visits](https://github-visit-counter.herokuapp.com/devfinwiz/github-visit-counter/visits.svg)](#)
 ![secret](https://user-images.githubusercontent.com/78873223/152636931-5d17014d-6390-4ab6-bbdc-73831ac73b59.jpg)
-
 
 ### Note: 
 Before executing the script, make sure to turn on 'Less Secure App access' option from your gmail ID that will be used to send out the mails to all participants of the game. 

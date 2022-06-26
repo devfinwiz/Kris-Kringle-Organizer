@@ -15,11 +15,21 @@ To do so, get going with the following steps:
 ### OUTPUT
 Post execution of this script the following is performed automatically:
 
-The script automatically allots everyone a name for whom they have to buy a gift this christmas. 
+> 1. The script automatically allots everyone a name for whom they have to buy a gift this christmas. 
+> 2. Every participant receives the necessary details of the game on their respective Email IDs to maintain confidentiality.  
+> 3. A CSV file containing the dataframe is created to store the records.
 
-Every participant receives the necessary details of the game on their respective Email IDs to maintain confidentiality.  
+## Libraries to be installed:
 
-A CSV file containing the dataframe is created to store the records.
+> 1. pandas
+> 2. numpy
+
+### Installation can be done using the pip command. (Example: pip install pandas)
+
+
+## Inbuilt libraries required:
+
+> 1. smtplib
 
 
 

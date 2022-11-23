@@ -1,4 +1,4 @@
-# SECRET SANTA / KRIS KINGLE [![visits]
+# SECRET SANTA / KRIS KINGLE 
 ![secret](https://user-images.githubusercontent.com/78873223/152636931-5d17014d-6390-4ab6-bbdc-73831ac73b59.jpg)
 
 ### Note: 
